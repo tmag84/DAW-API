@@ -10,7 +10,7 @@ namespace DAW.Utils.Exceptions
         {
             this.error = new ErrorModel
             {
-                type = Const_Strings.APP_PREFIX + "/prob/closed-issue",
+                type = "api/prob/closed-issue",
                 title = "Closed issue",
                 detail = msg,
                 status = System.Net.HttpStatusCode.Forbidden

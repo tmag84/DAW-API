@@ -10,7 +10,7 @@ namespace DAW.Utils.Exceptions
         {
             this.error = new ErrorModel
             {
-                type = Const_Strings.APP_PREFIX + "/prob/invalid-state",
+                type = "api/prob/invalid-state",
                 title = "Set Invalid State to Issue",
                 detail = msg,
                 status = System.Net.HttpStatusCode.Forbidden

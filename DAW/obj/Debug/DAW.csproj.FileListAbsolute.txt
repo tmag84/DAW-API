@@ -94,4 +94,6 @@ C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\System.Web.Http.x
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\System.Web.Http.Cors.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\System.Web.Http.Owin.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\WebApi.Hal.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAW\obj\Debug\DAW.csprojResolveAssemblyReference.cache

@@ -9,7 +9,7 @@ namespace DAW.Utils.Exceptions
         {
             this.error = new ErrorModel
             {
-                type = Const_Strings.APP_PREFIX + "/prob/duplicated-item",
+                type = "api/prob/duplicated-item",
                 title = "Attempted to create duplicated item",
                 detail = msg,
                 status = System.Net.HttpStatusCode.Forbidden

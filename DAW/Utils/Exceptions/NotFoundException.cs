@@ -9,7 +9,7 @@ namespace DAW.Utils.Exceptions
         {
             this.error = new ErrorModel
             {
-                type = Const_Strings.APP_PREFIX + "/prob/not-found",
+                type = "api/prob/not-found",
                 title = "Resource not found",
                 detail = msg,
                 status = System.Net.HttpStatusCode.NotFound

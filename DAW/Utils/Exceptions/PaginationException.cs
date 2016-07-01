@@ -10,7 +10,7 @@ namespace DAW.Utils.Exceptions
         {
             this.error = new ErrorModel
             {
-                type = Const_Strings.APP_PREFIX + "/prob/pagination-out-of-bounds",
+                type = "api/prob/pagination-out-of-bounds",
                 title = "Pagination out of bounds",
                 detail = msg,
                 status = System.Net.HttpStatusCode.NoContent
