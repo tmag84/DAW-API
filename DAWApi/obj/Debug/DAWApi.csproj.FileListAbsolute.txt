@@ -1,0 +1,104 @@
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\ApplicationInsights.config
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\csc.exe
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\vbc.exe
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\VBCSCompiler.exe
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\DAWApi.dll.config
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\DAWApi.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\DAWApi.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Drum.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.Web.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Newtonsoft.Json.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Net.Http.Formatting.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Cors.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.Cors.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.Owin.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\WebApi.Hal.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.Web.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.Owin.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\Newtonsoft.Json.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Net.Http.Formatting.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.Cors.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\System.Web.Http.Owin.xml
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\bin\WebApi.Hal.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\obj\Debug\DAWApi.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\obj\Debug\DAWApi.dll
+c:\users\tiago\documents\visual studio 2015\Projects\DAWApi\DAWApi\obj\Debug\DAWApi.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\ApplicationInsights.config
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\csc.exe
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\vbc.exe
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\DAWApi.dll.config
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\DAWApi.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\DAWApi.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Drum.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.Web.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.Owin.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Newtonsoft.Json.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Owin.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Cors.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Cors.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Owin.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\WebApi.Hal.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.Web.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.Owin.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\Newtonsoft.Json.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Cors.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Owin.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\WebApi.Hal.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.dll
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.pdb
