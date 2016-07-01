@@ -19,31 +19,22 @@ namespace DAW_Project
             config.EnableCors(cors);
 
             config.MapHttpAttributeRoutesAndUseUriMaker();
-            /*
-            config.Routes.MapHttpRoute(
-                "API",
-                "api/{controller}"
-                );*/
 
-            //project route
-            
+            //project route            
             config.Routes.MapHttpRoute(
                 "projects",
                 Const_Strings.PROJECT_ROUTE_PREFIX
                 );
                 
 
-            //issues route
-            
+            //issues route            
             config.Routes.MapHttpRoute(
                 "issues",
                 Const_Strings.ISSUE_ROUTE_PREFIX
-                );
-                
+                );             
 
 
-            //comments route
-            
+            //comments route            
             config.Routes.MapHttpRoute(
                 "comments",
                 Const_Strings.COMMENT_ROUTE_PREFIX
@@ -51,8 +42,6 @@ namespace DAW_Project
                 
 
             config.Formatters.Remove(config.Formatters.JsonFormatter);
-            //config.Formatters.JsonFormatter.SerializerSettings.Formatting = Formatting.Indented;
-            //config.Formatters.JsonFormatter.SerializerSettings.NullValueHandling = Newtonsoft.Json.NullValueHandling.Ignore;
             config.Formatters.Remove(config.Formatters.XmlFormatter);
 
             var jsonhal = new JsonHalMediaTypeFormatter();

@@ -26,8 +26,7 @@ namespace DAW.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=AIUR;Initial Catalog=DAW_Proj;Integrated Security=True;MultipleActive" +
-            "ResultSets=True")]
+        [global::System.Configuration.DefaultSettingValueAttribute(@"Data Source=e873e7e5-cf79-46de-aa5e-a63600f04b8f.sqlserver.sequelizer.com;Initial Catalog=dbe873e7e5cf7946deaa5ea63600f04b8f;Persist Security Info=True;User ID=kzqeetgsvkjctkog;Password=btFsh6mwoAd52m7k5ovrvTQ6wFhEkGr4G38jbP6ZiagUfgprt6PjczwpLH5HXPkN;MultipleActiveResultSets=True")]
         public string connString {
             get {
                 return ((string)(this["connString"]));
