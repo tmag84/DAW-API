@@ -99,6 +99,6 @@ C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Cors.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\System.Web.Http.Owin.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\bin\WebApi.Hal.pdb
-C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.csprojResolveAssemblyReference.cache
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.dll
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\DAWApi\obj\Debug\DAWApi.csprojResolveAssemblyReference.cache
