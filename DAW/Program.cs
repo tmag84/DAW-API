@@ -11,7 +11,6 @@ namespace DAW_Project
             using (WebApp.Start<Startup>(Const_Strings.SERVER_INFO))
             {
                 Console.WriteLine("Server is listening...");
-                Console.ReadKey();
             }
         }
     }
