@@ -7,7 +7,7 @@ using System.Web.Http.Cors;
 using AppHarbor.Utils;
 using Newtonsoft.Json;
 
-[assembly: OwinStartupAttribute(typeof(AppHarbor.Startup))]
+[assembly: OwinStartup(typeof(AppHarbor.Startup))]
 
 namespace AppHarbor
 {

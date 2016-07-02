@@ -77,6 +77,7 @@ C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\System.Web.Http.C
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\System.Web.Http.Owin.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\System.Web.Http.WebHost.xml
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\WebApi.Hal.pdb
-C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\obj\Debug\AppHarbor.csprojResolveAssemblyReference.cache
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\obj\Debug\AppHarbor.dll
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\obj\Debug\AppHarbor.pdb
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\AppHarbor.dll.CodeAnalysisLog.xml
+C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\AppHarbor\bin\AppHarbor.dll.lastcodeanalysissucceeded
