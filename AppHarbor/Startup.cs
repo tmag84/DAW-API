@@ -4,12 +4,12 @@ using Drum;
 using WebApi.Hal;
 using System.Web.Http;
 using System.Web.Http.Cors;
-using DAW.Utils;
+using AppHarbor.Utils;
 using Newtonsoft.Json;
 
-[assembly: OwinStartupAttribute(typeof(DAWApi.Startup))]
+[assembly: OwinStartupAttribute(typeof(AppHarbor.Startup))]
 
-namespace DAWApi
+namespace AppHarbor
 {
     public class Startup
     {

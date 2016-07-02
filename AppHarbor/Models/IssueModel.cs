@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using WebApi.Hal;
 
-namespace DAW.Models
+namespace AppHarbor.Models
 {
     public class IssueModel : Representation
     {

@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Data.SqlClient;
 using Newtonsoft.Json;
-using DAW.Models;
+using AppHarbor.Models;
 
-
-namespace DAW.Utils.DB
+namespace AppHarbor.Utils.DB
 {
     class DB_AuxGets
     {

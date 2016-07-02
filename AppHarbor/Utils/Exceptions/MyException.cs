@@ -1,8 +1,7 @@
-﻿using DAW.Models;
+﻿using AppHarbor.Models;
 using System;
 
-
-namespace DAW.Utils.Exceptions
+namespace AppHarbor.Utils.Exceptions
 {
     class MyException : Exception
     {

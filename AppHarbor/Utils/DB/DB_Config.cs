@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace DAW.Utils.DB
+namespace AppHarbor.Utils.DB
 {
     public class DB_Config
     {

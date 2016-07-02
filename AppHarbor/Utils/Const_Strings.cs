@@ -1,4 +1,4 @@
-﻿namespace DAW.Utils
+﻿namespace AppHarbor.Utils
 {
     public class Const_Strings
     {

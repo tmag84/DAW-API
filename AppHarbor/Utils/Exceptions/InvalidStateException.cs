@@ -1,7 +1,6 @@
-﻿
+﻿using AppHarbor.Models;
 
-using DAW.Models;
-namespace DAW.Utils.Exceptions
+namespace AppHarbor.Utils.Exceptions
 {
     class InvalidStateException : MyException
     {

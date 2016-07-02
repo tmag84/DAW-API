@@ -1,5 +1,5 @@
 ﻿using WebApi.Hal;
-namespace DAW.Models
+namespace AppHarbor.Models
 {
     class ErrorModel 
     {

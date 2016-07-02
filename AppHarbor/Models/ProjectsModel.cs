@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using WebApi.Hal;
 
-namespace DAW.Models
+namespace AppHarbor.Models
 {
     
     public class ProjectsModel : SimpleListRepresentation<ProjectModel>

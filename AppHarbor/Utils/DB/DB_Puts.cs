@@ -1,9 +1,9 @@
-﻿using DAW.Models;
-using DAW.Utils.Exceptions;
+﻿using AppHarbor.Models;
+using AppHarbor.Utils.Exceptions;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 
-namespace DAW.Utils.DB
+namespace AppHarbor.Utils.DB
 {
     class DB_Puts
     {

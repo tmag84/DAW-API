@@ -1,10 +1,10 @@
 ﻿using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using DAW.Utils;
-using DAW.Utils.Exceptions;
-using DAW.Utils.DB;
-using DAW.Models;
+using AppHarbor.Utils;
+using AppHarbor.Utils.Exceptions;
+using AppHarbor.Utils.DB;
+using AppHarbor.Models;
 using Drum;
 using WebApi.Hal;
 using System.Net.Http.Headers;
@@ -12,7 +12,7 @@ using System.Net.Http.Formatting;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DAW.Controllers
+namespace AppHarbor.Controllers
 {
     [RoutePrefix(Const_Strings.PROJECT_ROUTE_PREFIX)]
     public class ProjectsController : ApiController

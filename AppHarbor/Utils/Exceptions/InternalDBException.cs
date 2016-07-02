@@ -1,6 +1,6 @@
-﻿
-using DAW.Models;
-namespace DAW.Utils.Exceptions
+﻿using AppHarbor.Models;
+
+namespace AppHarbor.Utils.Exceptions
 {
     class InternalDBException : MyException
     {
