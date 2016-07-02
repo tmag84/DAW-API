@@ -7,7 +7,7 @@ using System.Web.Http.Cors;
 using DAW.Utils;
 using Newtonsoft.Json;
 
-[assembly: OwinStartup(typeof(DAWApi.Startup))]
+[assembly: OwinStartupAttribute(typeof(DAWApi.Startup))]
 
 namespace DAWApi
 {
