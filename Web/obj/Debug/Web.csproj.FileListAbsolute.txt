@@ -68,4 +68,3 @@ C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\Web\bin\roslyn\vbc.exe.config
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\Web\bin\roslyn\vbc.rsp
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\Web\bin\System.Web.Optimization.dll
 C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\Web\bin\System.Web.Optimization.xml
-C:\Users\Tiago\Documents\ISEL\Github\DAW\DAW-API\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
