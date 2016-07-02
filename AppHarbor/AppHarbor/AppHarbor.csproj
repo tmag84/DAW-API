@@ -138,6 +138,7 @@
     <Compile Include="Controllers\CommentsController.cs" />
     <Compile Include="Controllers\IssuesController.cs" />
     <Compile Include="Controllers\ProjectsController.cs" />
+    <Compile Include="Global.asax.cs" />
     <Compile Include="Models\CommentModel.cs" />
     <Compile Include="Models\ErrorModel.cs" />
     <Compile Include="Models\IssueModel.cs" />
